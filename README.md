@@ -1,0 +1,1 @@
+This project presents a decade-long analysis of gold price trends using Tableau. The dashboard enables interactive exploration of historical patterns, volatility, and seasonality in gold prices from 2013 to 2023. The dataset includes daily trading information with open, high, low, close prices, volume, and percentage change.
